@@ -77,4 +77,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/pyramid/proprietary/lib/libmllite.so:system/lib/libmllite.so \
   vendor/htc/pyramid/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc/pyramid/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
-  vendor/htc/pyramid/proprietary/lib/libmpl.so:system/lib/libmpl.so
+  vendor/htc/pyramid/proprietary/lib/libmpl.so:system/lib/libmpl.so \
+  vendor/htc/pyramid/proprietary/lib/libganril.so:system/lib/libganril.so \
+  vendor/htc/pyramid/proprietary/lib/libkineto.so:system/lib/libkineto.so \
+  vendor/htc/pyramid/proprietary/lib/librilswitch.so:system/lib/librilswitch.so \
+  vendor/htc/pyramid/proprietary/app/HTC-PYRTM-ICS-4.0.1-2.3-49986-4.3.apk:system/app/HTC-PYRTM-ICS-4.0.1-2.3-49986-4.3.apk
